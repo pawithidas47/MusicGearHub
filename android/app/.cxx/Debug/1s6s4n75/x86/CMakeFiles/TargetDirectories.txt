@@ -1,0 +1,2 @@
+D:/65312962/MusicGearHub/android/app/.cxx/Debug/1s6s4n75/x86/CMakeFiles/edit_cache.dir
+D:/65312962/MusicGearHub/android/app/.cxx/Debug/1s6s4n75/x86/CMakeFiles/rebuild_cache.dir
